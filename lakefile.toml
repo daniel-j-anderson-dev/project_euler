@@ -1,0 +1,10 @@
+name = "project_euler"
+version = "0.1.0"
+defaultTargets = ["project_euler"]
+
+[[lean_lib]]
+name = "ProjectEuler"
+
+[[lean_exe]]
+name = "project_euler"
+root = "Main"
